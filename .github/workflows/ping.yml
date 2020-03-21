@@ -1,0 +1,17 @@
+name: ping
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  build:
+    name: ping
+    runs-on: ubuntu-latest
+    steps:
+      - name: ping
+        run: curl -X POST ${{ secrets.WEBHOOK_URL }} -H 'Content-Type: application/json' -d '{"type" : "pages.push"}'
