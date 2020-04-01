@@ -19,6 +19,8 @@
 
 * [La page du New York Times](https://www.nytimes.com/news-event/coronavirus) consacrée à la crise avec beaucoup de données de référence, de visuels, d'explications. L'une des meilleures couvertures journalistiques sur le sujet.
 
+* [Comment le coronavirus se comporte à l'interieur d'un malade ?](https://www.newyorker.com/magazine/2020/04/06/how-does-the-coronavirus-behave-inside-a-patient): un article passionnant et bien documenté du New Yorker pour mieux comprendre notre nouveau meilleur ennemi. 
+
 * [Un simulateur de stragégies de confinement](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/), proposé par le Washington Post, permet de bien comprendre comment ça marche dans le temps.
 
 * [Calculer l'impact de la distanciation sociale sur la contagion](https://sciencetonnante.wordpress.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/) Le chercheur et youtubeur David Louapre (Science étonnante) a créé un petit outil pour mieux comprendre.
@@ -26,9 +28,11 @@
 
 ## S'inspirer des pays qui réussissent
 
-* [Le modèle de Singapour](https://www.technologyreview.com/s/615353/singapore-is-the-model-for-how-to-handle-the-coronavirus/)
+* [Le modèle de Singapour](https://www.technologyreview.com/s/615353/singapore-is-the-model-for-how-to-handle-the-coronavirus/) par la prestigieuse revue du MIT (en anglais).
 
 * Le modèle de la Corée du Sud
+
+* [Le modèle de la Chine](https://www.nature.com/articles/d41586-020-00741-x) par la revue scientifique de référence, Nature (en anglais).
 
 * Le modèle de l'Allemagne 
 
