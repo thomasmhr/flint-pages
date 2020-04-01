@@ -10,6 +10,8 @@
 
 * [Les remontées du terrain](https://flutrackers.com/) de ce site participatif, qui remontent les données des officiels, des médecins sur place et des citoyens.Flutrackers, qui suit les épidemies depuis 2006, a été [le premier à voir arriver le Covid-19](https://www.washingtonpost.com/lifestyle/media/the-first-reporter-in-the-western-world-to-spot-the-coronavirus-crisis-was-a-blogger-in-florida/2020/03/13/244f39e6-6476-11ea-acca-80c22bbee96f_story.html)
 
+* [Le tableau de bord de OurWorldInData](https://ourworldindata.org/coronavirus), un site de référence pour prendre du recul sur les événements en se concentrant sur l'analyse des données.
+
 * [Comparer les épidémies et plein d'autres choses](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) comme la sévérité des cas, les tranches d'âge les plus touchées
 
 [Un simulateur de stragégies de confinement](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/), proposé par le Washington Post, permet de bien comprendre comment ça marche dans le temps.
