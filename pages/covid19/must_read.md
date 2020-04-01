@@ -27,6 +27,8 @@
 
 * [Calculer l'impact de la distanciation sociale sur la contagion](https://sciencetonnante.wordpress.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/) Le chercheur et youtubeur David Louapre (Science étonnante) a créé un petit outil pour mieux comprendre.
 
+* [Comment la science modélise les épidémies](https://lejournal.cnrs.fr/articles/covid-19-comment-sont-concus-les-modeles-des-epidemies) pour mieux y répondre. L'explication du CNRS.
+
 
 ## S'inspirer des pays qui réussissent
 
