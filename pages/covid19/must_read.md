@@ -15,7 +15,7 @@
 * [Comparer les épidémies et plein d'autres choses](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) comme la sévérité des cas, les tranches d'âge les plus touchées
 
 
-## Sauvegarder les articles de référence
+## Découvrir les articles de référence
 
 * [La page du New York Times](https://www.nytimes.com/news-event/coronavirus) consacrée à la crise avec beaucoup de données de référence, de visuels, d'explications. L'une des meilleures couvertures journalistiques sur le sujet (en anglais).
 
