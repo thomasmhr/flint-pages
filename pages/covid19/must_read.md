@@ -17,9 +17,11 @@
 
 ## Sauvegarder les articles de référence
 
-* [La page du New York Times](https://www.nytimes.com/news-event/coronavirus) consacrée à la crise avec beaucoup de données de référence, de visuels, d'explications. L'une des meilleures couvertures journalistiques sur le sujet.
+* [La page du New York Times](https://www.nytimes.com/news-event/coronavirus) consacrée à la crise avec beaucoup de données de référence, de visuels, d'explications. L'une des meilleures couvertures journalistiques sur le sujet (en anglais).
 
-* [Comment le coronavirus se comporte à l'interieur d'un malade ?](https://www.newyorker.com/magazine/2020/04/06/how-does-the-coronavirus-behave-inside-a-patient): un article passionnant et bien documenté du New Yorker pour mieux comprendre notre nouveau meilleur ennemi. 
+* [Comment le coronavirus se comporte à l'interieur d'un malade ?](https://www.newyorker.com/magazine/2020/04/06/how-does-the-coronavirus-behave-inside-a-patient): un article passionnant et bien documenté du New Yorker pour mieux comprendre notre nouveau meilleur ennemi (en anglais).
+
+* [Le cas du "Diamond Princess"](https://www.nature.com/articles/d41586-020-00885-w), et ce qu'il nous apprend sur le comportement du virus (en anglais).
 
 * [Un simulateur de stragégies de confinement](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/), proposé par le Washington Post, permet de bien comprendre comment ça marche dans le temps.
 
