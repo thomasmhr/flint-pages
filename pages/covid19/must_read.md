@@ -2,7 +2,7 @@
 
 * [Les chiffres officiels](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde) mis à jour par Santé Publique France (gouvernement).
 
-* [La carte des hospitalisations en France](https://www.youtube.com/watch?v=SRvb7LCKB-c&t=7s) et des capacités d'accueil des malades. Ainsi que leur évolution (chiffres officiels, outil privé).
+* [La carte des hospitalisations en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5e09dff7cb434fb194e22261689e2887) et des capacités d'accueil des malades. Ainsi que leur évolution (chiffres officiels, outil privé).
 
 * [La carte des chiffres dans le monde](https://coronaboard.kr/en/) Le site est coréen, mais c'est le plus sérieux en terme de mise à jour. 
 
