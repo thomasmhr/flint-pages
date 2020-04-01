@@ -24,9 +24,9 @@
 
 ## Les robots Flint
 
-* [Le robot Coco](https://bit.ly/flintcoco) entrainé par Benoît Raphaël, trie l'information à partir d'articles s'appuyant sur des faits, rien que les faits. Sa newsletter est quotidienne;
+* Le robot "Coco", entrainé par Benoît Raphaël, trie l'information à partir d'articles s'appuyant sur des faits, rien que les faits. Newsletter quotidienne envoyée à midi. [S'abonner à Coco](https://bit.ly/flintcoco).
 
-* [Le robot CocoEco](https://bit.ly/flintcocoeco) entrainé par l'équipe de [LITA.co](http://bit.ly/FLINTxLITA) sélectionne des articles de qualité sur l'économie au temps du Covid-19. Sa newsletter est envoyée 3 fois par semaine à 17h.
+*  Le robot "Coco Eco", entrainé par l'équipe de [LITA.co](http://bit.ly/FLINTxLITA) sélectionne des articles de qualité sur l'économie au temps du Covid-19. Newsletter est envoyée 3 fois par semaine à 17h. [S'abonner à CocoEco](https://bit.ly/flintcocoeco).
 
 ## Le débat sur l'hydroxychloroquine
 
