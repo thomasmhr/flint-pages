@@ -12,11 +12,15 @@
 
 ## Les articles de référence
 
-Le MIT a lancé un [simulateur](https://en-roads.climateinteractive.org/scenario.html?v=2.7.11) en ligne pour s'essayer à sauver le monde du dérèglement. Qu'allez-vous préconiser?
+* [Calculer l'impact de la distanciation sociale sur la contagion](https://sciencetonnante.wordpress.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/) Le chercheur et youtubeur David Louapre (Science étonnante) a créé un petit outil pour mieux comprendre.
+
+
 
 ## Les robots Flint
 
-* Le cours [Energie et réchauffement climatique](https://www.youtube.com/watch?v=xgy0rW0oaFI&list=PLMDQXkItOZ4LPwWJkVQf_PWnYHfC5xGFO) donné par Jean Marc Jancovici à l'école des mines. 8 vidéos de 2h/2h30.
+* [Le robot Coco](https://bit.ly/flintcoco) entrainé par Benoît Raphaël, trie l'information à partir d'articles s'appuyant sur des faits, rien que les faits. Sa newsletter est quotidienne;
+
+* [Le robot CocoEco](https://bit.ly/flintcocoeco) entrainé par l'équipe de [LITA.co](http://bit.ly/FLINTxLITA) sélectionne des articles de qualité sur l'économie au temps du Covid-19. Sa newsletter est envoyée 3 fois par semaine à 17h.
 
 ## Le débat sur l'hydroxychloroquine
 
