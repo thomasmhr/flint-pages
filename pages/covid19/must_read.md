@@ -32,13 +32,11 @@
 
 ## S'inspirer des pays qui réussissent
 
-* [Le modèle de Singapour](https://www.technologyreview.com/s/615353/singapore-is-the-model-for-how-to-handle-the-coronavirus/) par la prestigieuse revue du MIT (en anglais).
+* [Le modèle de Singapour](https://www.technologyreview.com/s/615353/singapore-is-the-model-for-how-to-handle-the-coronavirus/), par la prestigieuse revue du MIT (en anglais).
 
-* Le modèle de la Corée du Sud
+* [Le modèle de la Corée du Sud](https://www.institutmontaigne.org/blog/coronavirus-lasie-orientale-face-la-pandemie-coree-du-sud-depistages-investigations-ciblees-et-la), par l'Instiut Montaigne, qui aborde aussi la question de la vie privée.
 
-* [Le modèle de la Chine](https://www.nature.com/articles/d41586-020-00741-x) par la revue scientifique de référence, Nature (en anglais).
-
-* Le modèle de l'Allemagne 
+* [Le modèle de la Chine](https://www.nature.com/articles/d41586-020-00741-x), par la revue scientifique de référence, Nature (en anglais).
 
 ## Relire les analyses de Flint Dimanche
 
