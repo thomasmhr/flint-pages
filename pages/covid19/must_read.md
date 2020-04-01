@@ -30,4 +30,4 @@
 
 ## Le débat sur l'hydroxychloroquine
 
-* Le cour
+* (en cours de fabrication)
