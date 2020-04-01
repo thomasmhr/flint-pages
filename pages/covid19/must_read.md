@@ -1,4 +1,4 @@
-## Les chiffres
+## S'informer par les (bons) chiffres
 
 * [Les chiffres officiels](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde) mis à jour par Santé Publique France (gouvernement).
 
@@ -14,21 +14,31 @@
 
 * [Comparer les épidémies et plein d'autres choses](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) comme la sévérité des cas, les tranches d'âge les plus touchées
 
-[Un simulateur de stragégies de confinement](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/), proposé par le Washington Post, permet de bien comprendre comment ça marche dans le temps.
 
-
-## Les articles de référence
+## Sauvegarder les articles de référence
 
 * [La page du New York Times](https://www.nytimes.com/news-event/coronavirus) consacrée à la crise avec beaucoup de données de référence, de visuels, d'explications. L'une des meilleures couvertures journalistiques sur le sujet.
+
+* [Un simulateur de stragégies de confinement](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/), proposé par le Washington Post, permet de bien comprendre comment ça marche dans le temps.
 
 * [Calculer l'impact de la distanciation sociale sur la contagion](https://sciencetonnante.wordpress.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/) Le chercheur et youtubeur David Louapre (Science étonnante) a créé un petit outil pour mieux comprendre.
 
 
-## Les robots Flint
+## S'inspirer des pays qui réussissent
+
+* [Le modèle de Singapour](https://www.technologyreview.com/s/615353/singapore-is-the-model-for-how-to-handle-the-coronavirus/)
+
+* Le modèle de la Corée du Sud
+
+* Le modèle de l'Allemagne 
+
+## S'abonner aux robots Flint sur le Covid-19
 
 * Le robot "Coco", entrainé par Benoît Raphaël, trie l'information à partir d'articles s'appuyant sur des faits, rien que les faits. Newsletter quotidienne envoyée à midi. [S'abonner à Coco](https://bit.ly/flintcoco).
 
 *  Le robot "Coco Eco", entrainé par l'équipe de [LITA.co](http://bit.ly/FLINTxLITA) sélectionne des articles de qualité sur l'économie au temps du Covid-19. Newsletter est envoyée 3 fois par semaine à 17h. [S'abonner à CocoEco](https://bit.ly/flintcocoeco).
+
+
 
 ## Le débat sur l'hydroxychloroquine
 
