@@ -4,6 +4,8 @@
 
 * [La carte des hospitalisations en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5e09dff7cb434fb194e22261689e2887) et des capacités d'accueil des malades. Ainsi que leur évolution (chiffres officiels, outil privé).
 
+* [Vérifier la surmortalité en France](https://www.insee.fr/fr/information/4470857#tableau-figure2_radio1) et la comparer aux autres années (chiffres de l'INSEE mis à jour chaque semaine)
+
 * [La carte des chiffres dans le monde](https://coronaboard.kr/en/) Le site est coréen, mais c'est le plus sérieux en terme de mise à jour. 
 
 * [Les chiffres officiels de l'OMS](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd): l'organisation mondiale pour la santé (WH0 en anglais) met à jour les chiffres officiels, mais moins vite que le site coréen cité plus haut...
