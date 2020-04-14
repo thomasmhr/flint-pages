@@ -16,6 +16,8 @@
 
 * [Comparer les épidémies et plein d'autres choses](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) comme la sévérité des cas, les tranches d'âge les plus touchées
 
+* [L'impact de la crise sanitaire sur l'économie](http://www.oecd.org/coronavirus/fr/) : les projections et les chiffres de l'OCDE.
+
 
 ## Découvrir les articles de référence
 
@@ -30,8 +32,6 @@
 * [Calculer l'impact de la distanciation sociale sur la contagion](https://sciencetonnante.wordpress.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/) Le chercheur et youtubeur David Louapre (Science étonnante) a créé un petit outil pour mieux comprendre.
 
 * [Comment la science modélise les épidémies](https://lejournal.cnrs.fr/articles/covid-19-comment-sont-concus-les-modeles-des-epidemies) pour mieux y répondre. L'explication du CNRS.
-
-* [L'impact de la crise sanitaire sur l'économie](http://www.oecd.org/coronavirus/fr/) : les projections de l'OCDE.
 
 
 ## S'inspirer des pays qui réussissent
