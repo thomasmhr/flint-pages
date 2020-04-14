@@ -23,6 +23,8 @@
 
 * [La page du New York Times](https://www.nytimes.com/news-event/coronavirus) consacrée à la crise avec beaucoup de données de référence, de visuels, d'explications. L'une des meilleures couvertures journalistiques sur le sujet (en anglais).
 
+* [La page du South China Morning Post](https://www.scmp.com/coronavirus?src=main_menu_primary) : le site préféré du Pr Raoult ! Beaucoup de chiffres, de graphiques et de réponses aux questions que l'on se pose (en anglais).
+
 * [Comment le coronavirus se comporte à l'interieur d'un malade ?](https://www.newyorker.com/magazine/2020/04/06/how-does-the-coronavirus-behave-inside-a-patient): un article passionnant et bien documenté du New Yorker pour mieux comprendre notre nouveau meilleur ennemi (en anglais).
 
 * [Le cas du "Diamond Princess"](https://www.nature.com/articles/d41586-020-00885-w), et ce qu'il nous apprend sur le comportement du virus (en anglais).
