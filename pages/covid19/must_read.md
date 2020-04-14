@@ -42,9 +42,13 @@
 
 ## Relire les analyses de Flint Dimanche
 
-* [Penser l'après-confinement](https://news.flint.media/2020/03/22/covid-19-un-nouvel-espoir/) : l'édition du 22 mars 2020 de Flint Dimanche.
+* [Se faire sa propore opinion sur la polémique autour du Dr Raoult](https://news.flint.media/2020/04/12/toi-aussi-comprends-le-professeur-raoult-version-avec-sous-titres/) : l'édition du 12 avril 2020.
 
-* [En cas de panique, consultez un robot](https://news.flint.media/2020/03/15/coronavirus-en-cas-de-panique-consultez-un-robot-flint-dimanche-23/) : l'édition du 15 mars 2020 de Flint Dimanche.
+* [Les masques : indispensables ou bien ?](https://news.flint.media/2020/04/05/les-masques-ne-servent-a-rien-enfin-si-mais-comment-dire-flint-dimanche-26/) : l'édition du 5 avril 2020.
+
+* [Penser l'après-confinement en s'inspirant des autres](https://news.flint.media/2020/03/22/covid-19-un-nouvel-espoir/) : l'édition du 22 mars 2020.
+
+* [En cas de panique, regardez les chiffres](https://news.flint.media/2020/03/15/coronavirus-en-cas-de-panique-consultez-un-robot-flint-dimanche-23/) : l'édition du 15 mars 2020.
 
 ## S'abonner aux robots Flint sur le Covid-19
 
