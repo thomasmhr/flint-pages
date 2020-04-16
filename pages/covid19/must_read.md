@@ -6,7 +6,7 @@
 
 * [Vérifier la surmortalité en France](https://www.insee.fr/fr/information/4470857#tableau-figure2_radio1) et la comparer aux autres années (chiffres de l'INSEE mis à jour chaque semaine)
 
-* [La carte des chiffres dans le monde](https://coronaboard.kr/en/) Le site est coréen, mais c'est le plus sérieux en terme de mise à jour. 
+* [La carte des chiffres dans le monde](https://www.worldometers.info/coronavirus/): Le site le mieux mis à jour, qui permet de comparer également en temps réel beaucoup de données entre les pays (notamment le nombre de tests et le ratio morts/habitant)
 
 * [Le tableau de bord de l'université de médecine John Hopkins](https://coronavirus.jhu.edu/map.html) dont les données servent de source à de nombreuses cartographies ainsi qu'aux journalistes.
 
