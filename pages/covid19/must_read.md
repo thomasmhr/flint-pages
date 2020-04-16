@@ -8,9 +8,9 @@
 
 * [La carte des chiffres dans le monde](https://coronaboard.kr/en/) Le site est coréen, mais c'est le plus sérieux en terme de mise à jour. 
 
-* [Le tableau de bord de OurWorldInData](https://ourworldindata.org/coronavirus), un site de référence pour prendre du recul sur les événements en se concentrant sur l'analyse des données.
+* [Le tableau de bord de l'université de médecine John Hopkins](https://coronavirus.jhu.edu/map.html) dont les données servent de source à de nombreuses cartographies ainsi qu'aux journalistes.
 
-* [Le tableau de bord de l'université de médecine John Hopkins](https://coronavirus.jhu.edu/map.html) est devenu une vraie référence. Ses données servent de source à de nombreuses cartographies ainsi qu'aux journalistes.
+* [Le tableau de bord de OurWorldInData](https://ourworldindata.org/coronavirus), un site de référence pour prendre du recul sur les événements en se concentrant sur l'analyse des données.
 
 * [Les chiffres officiels de l'OMS](https://who.sprinklr.com/): l'organisation mondiale pour la santé (WH0 en anglais) met à jour les chiffres officiels, mais moins vite que le site coréen cité plus haut...
 
