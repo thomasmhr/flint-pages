@@ -16,6 +16,8 @@
 
 * [Comparer les épidémies et plein d'autres choses](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) comme la sévérité des cas, les tranches d'âge les plus touchées
 
+* [Comparer les épidémies entre-elles](https://www.visualcapitalist.com/history-of-pandemics-deadliest/), à travers l'histoire.
+
 * [L'impact de la crise sanitaire sur l'économie](http://www.oecd.org/coronavirus/fr/) : les projections et les chiffres de l'OCDE.
 
 
