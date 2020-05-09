@@ -1,3 +1,5 @@
+![Mieux s'informer](https://news.flint.media/wp-content/uploads/2020/03/ours-malade-infection-virus-coronavirus-2019-ncov-ours-malade-virus-masque-froid-traitement-jouets-personnes-epidemie_73652-960.jpg#width=1280&height=720 "Mieux s'informer")
+
 ## S'informer par les (bons) chiffres
 
 * [Les chiffres officiels](https://www.santepubliquefrance.fr/maladies-et-traumatismes/maladies-et-infections-respiratoires/infection-a-coronavirus/articles/infection-au-nouveau-coronavirus-sars-cov-2-covid-19-france-et-monde) mis à jour par Santé Publique France (gouvernement).
