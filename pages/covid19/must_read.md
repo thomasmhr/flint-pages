@@ -35,18 +35,25 @@
 
 * [Un simulateur de stragégies de confinement](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/), proposé par le Washington Post, permet de bien comprendre comment ça marche dans le temps.
 
+* [Un simulateur de gestion de la pandémie](https://ncase.me/covid-19/), très pédagogique, proposé par un épidémiologiste et un codeur/artiste.
+
+* [Un simulateur d'impact du port du masque](https://www1.icsi.berkeley.edu/~dekai/mirror/masksim/#introtutorial), mis au point par des chercheurs, faisant appel à l'intelligence artificielle.
+
 * [Calculer l'impact de la distanciation sociale sur la contagion](https://sciencetonnante.wordpress.com/2020/03/12/epidemie-nuage-radioactif-et-distanciation-sociale/) Le chercheur et youtubeur David Louapre (Science étonnante) a créé un petit outil pour mieux comprendre.
 
 * [Comment la science modélise les épidémies](https://lejournal.cnrs.fr/articles/covid-19-comment-sont-concus-les-modeles-des-epidemies) pour mieux y répondre. L'explication du CNRS.
 
 
+
 ## S'inspirer des pays qui réussissent
 
-* [Le modèle de Singapour](https://www.technologyreview.com/s/615353/singapore-is-the-model-for-how-to-handle-the-coronavirus/), par la prestigieuse revue du MIT (en anglais).
+* [Le modèle de Singapour](https://www.technologyreview.com/s/615353/singapore-is-the-model-for-how-to-handle-the-coronavirus/), par la prestigieuse revue du MIT (en anglais). Un modèle [qui a moins bien résisté à la seconde vague](https://www.letemps.ch/economie/singapour-tracage-app-degenere-surveillance-masse).
 
 * [Le modèle de la Corée du Sud](https://www.institutmontaigne.org/blog/coronavirus-lasie-orientale-face-la-pandemie-coree-du-sud-depistages-investigations-ciblees-et-la), par l'Instiut Montaigne, qui aborde aussi la question de la vie privée.
 
 * [Le modèle de la Chine](https://www.nature.com/articles/d41586-020-00741-x), par la revue scientifique de référence, Nature (en anglais).
+
+* [Le modèle de la Suède](https://www.contrepoints.org/2020/04/28/370150-coronavirus-letonnante-politique-de-la-suede), par le site Contrepoints. [Mais un modèle contesté](https://www.nytimes.com/2020/05/04/opinion/coronavirus-sweden-herd-immunity.html) selon le New-York Times (en anglais).
 
 ## Relire les analyses de Flint Dimanche
 
