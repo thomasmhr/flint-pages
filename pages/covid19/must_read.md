@@ -1,4 +1,4 @@
-![Mieux s'informer](https://news.flint.media/wp-content/uploads/2020/03/ours-malade-infection-virus-coronavirus-2019-ncov-ours-malade-virus-masque-froid-traitement-jouets-personnes-epidemie_73652-960.jpg#width=600&height=400 "L'indispensable")
+![L'indispensable](https://news.flint.media/wp-content/uploads/2020/03/ours-malade-infection-virus-coronavirus-2019-ncov-ours-malade-virus-masque-froid-traitement-jouets-personnes-epidemie_73652-960.jpg#width=600&height=400 "L'indispensable")
 
 ## S'informer par les (bons) chiffres
 
@@ -45,6 +45,8 @@
 
 * [Comment la science modélise les épidémies](https://lejournal.cnrs.fr/articles/covid-19-comment-sont-concus-les-modeles-des-epidemies) pour mieux y répondre. L'explication du CNRS.
 
+* [La gestion chaotique des stocks de masque en France](https://www.lemonde.fr/sante/article/2020/05/07/la-france-et-les-epidemies-2017-2020-l-heure-des-comptes_6038973_1651302.html): l'enquête de Gérad Davet et Fabrice Lhomme.
+
 
 
 ## S'inspirer des pays qui réussissent
@@ -58,10 +60,18 @@
 * [Le modèle de la Suède](https://www.contrepoints.org/2020/04/28/370150-coronavirus-letonnante-politique-de-la-suede), qui a fait le choix de l'immunité collective, défendu par un économiste libéral suédois sur le site d'opinions Contrepoints. [Mais un modèle contesté](https://www.nytimes.com/2020/05/04/opinion/coronavirus-sweden-herd-immunity.html) selon le New-York Times (en anglais). Le quotidien Libération [pèse le pour et le contre](https://www.liberation.fr/checknews/2020/05/05/covid-19-la-suede-est-elle-bientot-proche-de-l-immunite-collective_1787327).
 
 
-## Lire et partager [les analyses de Flint Dimanche](https://news.flint.media/category/covid-19/)
+## Lire les analyses de Flint Dimanche
 
+* [Combien vaut une vie sauvée ?](https://news.flint.media/2020/05/03/combien-coute-une-vie-sauvee-flint-dimanche-29/)
+* [Peut-on créer de l'argent magique pour financer la crise ?](https://news.flint.media/2020/04/26/et-alors-la-marmotte-flint-dimanche-29/)
+* [Comprendre la polémique autour du Professeur Raoult et de l'hydroxychloroquine](https://news.flint.media/2020/04/12/toi-aussi-comprends-le-professeur-raoult-version-avec-sous-titres/)
+* [Les masques sont-ils utiles ?](https://news.flint.media/2020/04/05/les-masques-ne-servent-a-rien-enfin-si-mais-comment-dire-flint-dimanche-26/)
+
+[Retrouver toutes les newsletters de Flint Dimanche sur le COVID-19](https://news.flint.media/category/covid-19/)
 
 ## S'abonner aux robots Flint sur le Covid-19
+
+
 
 * Le robot "Coco", entrainé par Benoît Raphaël, trie l'information à partir d'articles s'appuyant sur des faits, rien que les faits. Newsletter quotidienne envoyée à midi. [S'abonner à Coco](https://bit.ly/flintcoco).
 
