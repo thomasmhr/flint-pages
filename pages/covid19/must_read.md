@@ -1,4 +1,4 @@
-![L'indispensable](https://news.flint.media/wp-content/uploads/2020/03/coco0000.jpg#width=600&height=400 "L'indispensable")
+![L'indispensable](https://news.flint.media/wp-content/uploads/2020/03/coco0000.jpg#width=300&height=295 "L'indispensable")
 
 ## S'informer par les (bons) chiffres
 
