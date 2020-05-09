@@ -1,4 +1,4 @@
-![L'indispensable](https://news.flint.media/wp-content/uploads/2020/03/ours-malade-infection-virus-coronavirus-2019-ncov-ours-malade-virus-masque-froid-traitement-jouets-personnes-epidemie_73652-960.jpg#width=600&height=400 "L'indispensable")
+![L'indispensable](https://news.flint.media/wp-content/uploads/2020/03/coco0000.jpg#width=600&height=400 "L'indispensable")
 
 ## S'informer par les (bons) chiffres
 
@@ -69,8 +69,6 @@
 * [Toutes les newsletters de Flint Dimanche sur le COVID-19](https://news.flint.media/category/covid-19/)
 
 ## S'abonner aux robots Flint sur le Covid-19
-
-![Coco](https://news.flint.media/wp-content/uploads/2020/03/coco0000.jpg#width=600&height=400 "Coco")
 
 * Le robot "Coco", entrainé par Benoît Raphaël, trie l'information à partir d'articles s'appuyant sur des faits, rien que les faits. Newsletter quotidienne envoyée à midi. [S'abonner à Coco](https://bit.ly/flintcoco).
 
