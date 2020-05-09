@@ -1,4 +1,4 @@
-![Mieux s'informer](https://news.flint.media/wp-content/uploads/2020/03/ours-malade-infection-virus-coronavirus-2019-ncov-ours-malade-virus-masque-froid-traitement-jouets-personnes-epidemie_73652-960.jpg#width=1280&height=720 "Mieux s'informer")
+![Mieux s'informer](https://news.flint.media/wp-content/uploads/2020/03/ours-malade-infection-virus-coronavirus-2019-ncov-ours-malade-virus-masque-froid-traitement-jouets-personnes-epidemie_73652-960.jpg#width=600&height=400 "L'indispensable")
 
 ## S'informer par les (bons) chiffres
 
