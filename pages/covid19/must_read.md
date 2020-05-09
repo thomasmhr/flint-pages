@@ -55,7 +55,9 @@
 
 * [Le modèle de la Suède](https://www.contrepoints.org/2020/04/28/370150-coronavirus-letonnante-politique-de-la-suede), par le site Contrepoints. [Mais un modèle contesté](https://www.nytimes.com/2020/05/04/opinion/coronavirus-sweden-herd-immunity.html) selon le New-York Times (en anglais).
 
-## [Lire/relire les analyses et enquêtes de Flint Dimanche](https://news.flint.media/category/covid-19/)
+
+## Lire et partager [les analyses de Flint Dimanche](https://news.flint.media/category/covid-19/)
+
 
 ## S'abonner aux robots Flint sur le Covid-19
 
