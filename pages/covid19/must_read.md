@@ -53,7 +53,7 @@
 
 * [Le modèle de la Chine](https://www.nature.com/articles/d41586-020-00741-x), par la revue scientifique de référence, Nature (en anglais).
 
-* [Le modèle de la Suède](https://www.contrepoints.org/2020/04/28/370150-coronavirus-letonnante-politique-de-la-suede), par le site Contrepoints. [Mais un modèle contesté](https://www.nytimes.com/2020/05/04/opinion/coronavirus-sweden-herd-immunity.html) selon le New-York Times (en anglais).
+* [Le modèle de la Suède](https://www.contrepoints.org/2020/04/28/370150-coronavirus-letonnante-politique-de-la-suede), qui a fait le choix de l'immunité collective, défendu par un économiste libéral suédois sur le site d'opinions Contrepoints. [Mais un modèle contesté](https://www.nytimes.com/2020/05/04/opinion/coronavirus-sweden-herd-immunity.html) selon le New-York Times (en anglais). Mais aussi Libération, [qui pèse le pour et le contre].
 
 
 ## Lire et partager [les analyses de Flint Dimanche](https://news.flint.media/category/covid-19/)
