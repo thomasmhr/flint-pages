@@ -6,7 +6,7 @@
 
 * [La carte des hospitalisations en France](https://mapthenews.maps.arcgis.com/apps/opsdashboard/index.html#/5e09dff7cb434fb194e22261689e2887) et des capacités d'accueil des malades. Ainsi que leur évolution (chiffres officiels, outil privé).
 
-* [Vérifier la surmortalité en France](https://www.insee.fr/fr/information/4470857#tableau-figure2_radio1) et la comparer aux autres années (chiffres de l'INSEE mis à jour chaque semaine)
+* [Vérifier la surmortalité en France](https://www.insee.fr/fr/statistiques/4487861?sommaire=4487854) et la comparer aux autres années (chiffres de l'INSEE mis à jour chaque semaine)
 
 * [La carte des chiffres dans le monde](https://www.worldometers.info/coronavirus/): Le site le mieux mis à jour, qui permet de comparer également en temps réel beaucoup de données entre les pays (notamment le nombre de tests et le ratio morts/habitant)
 
