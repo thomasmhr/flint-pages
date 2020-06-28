@@ -14,7 +14,7 @@
 
 * [Le tableau de bord de OurWorldInData](https://ourworldindata.org/coronavirus), un site de référence pour prendre du recul sur les événements en se concentrant sur l'analyse des données.
 
-* [Les chiffres officiels de l'OMS](https://who.sprinklr.com/): l'organisation mondiale pour la santé (WH0 en anglais) met à jour les chiffres officiels, mais moins vite que le site coréen cité plus haut...
+* [Les chiffres officiels de l'OMS](https://who.sprinklr.com/): l'organisation mondiale pour la santé (WH0 en anglais) met à jour les chiffres officiels, et publie des recommandations (parfois contestées).
 
 * [Les remontées du terrain](https://flutrackers.com/) de ce site participatif, qui remontent les données des officiels, des médecins sur place et des citoyens.Flutrackers, qui suit les épidemies depuis 2006, a été [le premier à voir arriver le Covid-19](https://www.washingtonpost.com/lifestyle/media/the-first-reporter-in-the-western-world-to-spot-the-coronavirus-crisis-was-a-blogger-in-florida/2020/03/13/244f39e6-6476-11ea-acca-80c22bbee96f_story.html)
 
